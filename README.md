@@ -3,8 +3,8 @@ Hi there 👋, I'm **Akshay**!
 
 I am a passionate developer specializing in the **MEARN stack** and **DevOps**. I love working with cutting-edge technologies and am constantly seeking opportunities to expand my skill set.
 
-- 🌐 **Areas of Expertise**:  
-  **DevOps**, **Web Development**, **Cloud Computing**, **AI**, **Machine Learning**.
+- 🌐 **Areas of Focus**:  
+  **DevOps**, **Web Development**, **Cloud Computing**.
 
 - 💻 **Tech I Work With**:
   - **Frontend**: React.js, Angular.js
