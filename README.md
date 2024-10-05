@@ -1,5 +1,18 @@
 # 💫 About Me:
-# Hi there 👋, I'm Akshay!<br><br>I am a passionate developer specializing in MEARN stack and DevOps. I have a strong interest in various cutting-edge technologies and am always looking to expand my knowledge. Here’s a little bit about what I do:<br><br>- 🌐 I am passionate about **DevOps**, **Web Development**, **Cloud Computing**, **AI**, and **Machine Learning**.<br>- 💻 I work with a range of technologies, including:<br>  - Frontend: **React.js**, **Angular.js**<br>  - Backend: **Node.js**, **Express.js**, **PHP**<br>  - Cloud & DevOps: **AWS**, **Kubernetes**, **Jenkins**, **Docker**, **Git**<br>  - Databases: **MySQL**, **MongoDB**<br><br>I’m also actively learning more about Kubernetes and cloud technologies to enhance my expertise.<br>
+Hi there 👋, I'm **Akshay**!
+
+I am a passionate developer specializing in the **MEARN stack** and **DevOps**. I love working with cutting-edge technologies and am constantly seeking opportunities to expand my skill set.
+
+- 🌐 **Areas of Expertise**:  
+  **DevOps**, **Web Development**, **Cloud Computing**, **AI**, **Machine Learning**.
+
+- 💻 **Tech I Work With**:
+  - **Frontend**: React.js, Angular.js
+  - **Backend**: Node.js, Express.js, PHP
+  - **Cloud & DevOps**: AWS, Kubernetes, Jenkins, Docker, Git
+  - **Databases**: MySQL, MongoDB
+
+I’m currently expanding my knowledge in **Kubernetes** and other **cloud technologies** to further enhance my expertise.
 
 **"Great code is like good automation – if it's doing its job, you won't even notice it working."**
 
